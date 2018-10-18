@@ -1,11 +1,11 @@
 # CNNLearnTest
+![](https://github.com/heixiaofeng/CNNLearnTest/raw/master/rect.jpg)
 低通滤波
-![image](https://github.com/heixiaofeng/CNNLearnTest/raw/master/rect.jpg)
+![](https://github.com/heixiaofeng/CNNLearnTest/raw/master/gaussian.jpg)
 高斯滤波
-![image](https://github.com/heixiaofeng/CNNLearnTest/raw/master/gaussian.jpg)
+![](https://github.com/heixiaofeng/CNNLearnTest/raw/master/sharpen.jpg)
 锐化
-![image](https://github.com/heixiaofeng/CNNLearnTest/raw/master/sharpen.jpg)
+![](https://github.com/heixiaofeng/CNNLearnTest/raw/master/edges.jpg)
 边缘检测
-![image](https://github.com/heixiaofeng/CNNLearnTest/raw/master/edges.jpg)
+![](https://github.com/heixiaofeng/CNNLearnTest/raw/master/emboss.jpg)
 浮雕
-![image](https://github.com/heixiaofeng/CNNLearnTest/raw/master/emboss.jpg)
